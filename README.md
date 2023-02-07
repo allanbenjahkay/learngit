@@ -1,3 +1,3 @@
 # learngit
-introduction to git
+introduction git
 First learner
